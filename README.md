@@ -43,6 +43,7 @@ HGU 1st Plaython
   
   player가 걷는 애니메이션을 구현하면서, 오픈 에셋(소스) 두개 (손전등, 손전등을 잡은 손)를 합쳐 사용했고, 애니메이션 2개를 사용하였는데, 걷는 것에 따라 움직이는 애니메이션(1)은 잘 구현이 되었는데, 숨쉬는 것에 따라 위아래로 움직이는 애니메이션(2)은 손전등을 잡은 손에만 구현이 되었다. 원래 오픈소스에서는 손전등 대신 총을 잡은 손이었는데, 총을 없애고 손전등 에셋을 추가하면서 생긴 문제인데, 해결하지 못한 채로 끝났다.
   
+  좀비를 구현하면서 AI를 어떻게 구현하는지 감을 못잡고 있었을 때 다른 사람들의 구현을 참고하면서 Unity의 다양한 기능들과 기초적인 지식을 얻을 수 있었다. 그렇지만아무래도 타겟 플래폼이 핸드폰이다보니 사양적인 부분을 생각하지않고 실제 실행시 약간의 버벅거림이 있었다.
   
 - 사용한 오픈소스 
 1)	지상1층: https://assetstore.unity.com/packages/3d/environments/urban/basement-and-sewerage-modular-location-121248
@@ -53,6 +54,7 @@ HGU 1st Plaython
             https://drive.google.com/open?id=1_3z4VP9otCbEgRjIapS01G_iflLKW3YZ (상업적 용도 사용 불가)
 6)  손전등: https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972
 7)  오디오: https://assetstore.unity.com/packages/audio/ambient/ambient-horror-sound-fx-free-64527
+8)  좀비모델: https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232
 
 
 - 참고한 자료,사이트 
@@ -64,7 +66,15 @@ https://unity3d.com/learn/tutorials/s/survival-shooter-tutorial
 [Player 애니메이션]
 https://blog.naver.com/choish1919/221257856099
 
+[좀비 애니메이션 적용]
+https://www.youtube.com/watch?v=48hojHj3BQk
+https://www.youtube.com/channel/UCqy5niYmcLgr4zBuc_ZAyIw
 
-- 사진(4장)
+[좀비 AI 구현]
+https://www.youtube.com/channel/UCqy5niYmcLgr4zBuc_ZAyIw
+
+- 사진
 <img width="1435" alt="tutorial" src="https://user-images.githubusercontent.com/31753296/54083177-a163b400-4363-11e9-8693-ceb0536be4b6.png">
 <img width="1411" alt="해커톤" src="https://user-images.githubusercontent.com/40797315/54085815-5b1f4c80-4385-11e9-8c25-9029560f67cc.png">
+<img width="1000" alt="스크린샷 2019-03-10 오후 10 55 02" src="https://user-images.githubusercontent.com/35189020/54086016-26f95b00-4388-11e9-99b8-f2f6c2807952.png">
+

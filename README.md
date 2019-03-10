@@ -74,8 +74,8 @@ https://www.youtube.com/channel/UCqy5niYmcLgr4zBuc_ZAyIw
 https://www.youtube.com/channel/UCqy5niYmcLgr4zBuc_ZAyIw
 
 - 사진
-<img width="1435" alt="tutorial" src="https://user-images.githubusercontent.com/31753296/54083177-a163b400-4363-11e9-8693-ceb0536be4b6.png">
-<img width="1411" alt="해커톤" src="https://user-images.githubusercontent.com/40797315/54085815-5b1f4c80-4385-11e9-8c25-9029560f67cc.png">
-<img width="1000" alt="스크린샷 2019-03-10 오후 10 55 02" src="https://user-images.githubusercontent.com/35189020/54086016-26f95b00-4388-11e9-99b8-f2f6c2807952.png">
-<img width="630" alt="스크린샷 2019-03-10 오후 11 03 04" src="https://user-images.githubusercontent.com/35189020/54086059-b3a41900-4388-11e9-9647-534578c4ce4b.png">
 
+<img width="1411" alt="해커톤" src="https://user-images.githubusercontent.com/40797315/54085815-5b1f4c80-4385-11e9-8c25-9029560f67cc.png">
+<img width="1000" alt="스크린샷 2019-03-10 오후 11 03 04" src="https://user-images.githubusercontent.com/35189020/54086059-b3a41900-4388-11e9-9647-534578c4ce4b.png">
+<img width="1000" alt="스크린샷 2019-03-10 오후 10 55 02" src="https://user-images.githubusercontent.com/35189020/54086016-26f95b00-4388-11e9-99b8-f2f6c2807952.png">
+<img width="1435" alt="tutorial" src="https://user-images.githubusercontent.com/31753296/54083177-a163b400-4363-11e9-8693-ceb0536be4b6.png">

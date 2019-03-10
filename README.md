@@ -52,6 +52,7 @@ HGU 1st Plaython
 5)  플레이어: https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351
             https://drive.google.com/open?id=1_3z4VP9otCbEgRjIapS01G_iflLKW3YZ (상업적 용도 사용 불가)
 6)  손전등: https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972
+7)  오디오: https://assetstore.unity.com/packages/audio/ambient/ambient-horror-sound-fx-free-64527
 
 
 - 참고한 자료,사이트 
@@ -66,4 +67,3 @@ https://blog.naver.com/choish1919/221257856099
 
 - 사진(4장)
 <img width="1435" alt="tutorial" src="https://user-images.githubusercontent.com/31753296/54083177-a163b400-4363-11e9-8693-ceb0536be4b6.png">
-

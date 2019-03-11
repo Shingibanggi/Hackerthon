@@ -19,7 +19,8 @@ HGU 1st Plaython
         
 
 - 개발 과정 
-Unity 3.6 버전으로 개발 진행
+  
+  Unity 3.6 버전으로 개발 진행
 
   1)	Player : 걷기, 무기사용(총), item 집기, 소유 item 보기, 락커에 숨기, 체력 소진 및 회복
   2)	Zombie : 리스폰, 걷기, 체력, player 감지 -> 공격, 사망, player 감지 해제
